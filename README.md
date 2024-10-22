@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This repository contains the code, data, and documentation for our project analyzing tornado trends in the U.S. from 1992 to 2023. Our aim is to build a time-series prediction model using ARIMA and SARIMA to forecast tornado-related metrics like property damage, fatalities, and frequency. By focusing on minimizing the Mean Absolute Error (MAE), we will identify the most effective prediction model for these metrics, contributing to a better understanding of long-term trends and improving disaster response strategies.
+This repository contains the code, data, and documentation for our project analyzing tornado trends in the U.S. from 1998 to 2023. Our aim is to build a time-series prediction model using ARIMA and SARIMA to forecast tornado-related metrics like property damage, fatalities, and frequency. By focusing on minimizing the Mean Absolute Error (MAE), we will identify the most effective prediction model for these metrics, contributing to a better understanding of long-term trends and improving disaster response strategies.
 
 ## Repository Structure
 
@@ -47,7 +47,7 @@ This repository contains the code, data, and documentation for our project analy
 
 ## Data
 
-The dataset for this project is sourced from the "NCDC Storm Events Database" and includes comprehensive tornado event data across the U.S. from 1992 to 2023. It contains information such as the date, location, injuries, fatalities, and property damage for each tornado event.
+The dataset for this project is sourced from the "NCDC Storm Events Database" and includes comprehensive tornado event data across the U.S. from 1998 to 2023. It contains information such as the date, location, injuries, fatalities, and property damage for each tornado event.
 
 ## Instructions for Reproducing Results
 
