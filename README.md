@@ -24,8 +24,10 @@ This repository contains the code, data, and documentation for our project analy
 ├── LICENSE.md               # License information (MIT)
 ├── requirements.txt         # Python packages needed for the project
 ├── SCRIPTS/
-│   ├── exploratoryplots.ipynb  # Prelim data discobvery
-│   └── analysis.ipynb       # Detailed step-by-step analysis performed
+|   ├── 1-data.ipynb         # script to combine data over the years
+│   ├── 2-exploratory.ipynb  # Prelim data discobvery
+|   ├── 3-analysis.ipynb     # Detailed step-by-step analysis performed
+│   └── 4-stats.ipynb        # Detailed step-by-step takeaways and stats performed
 ├── DATA/
 │   └── Data.md              # Steps to download dataset
 ├── OUTPUT/
@@ -71,7 +73,7 @@ The dataset for this project is sourced from the "NCDC Storm Events Database" an
 
 4. Run the exploratory plots:
 
-   - Go to `/SCRIPTS/2-exploratory-plots.ipynb`, follow the comments in the cells and run each cell to see our exploratory-plots, or go to outputs to see them directly!
+   - Go to `/SCRIPTS/2-exploratory.ipynb`, follow the comments in the cells and run each cell to see our exploratory-plots, or go to outputs to see them directly!
 
 5. Run the analysis:
 
