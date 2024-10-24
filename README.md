@@ -64,12 +64,20 @@ The dataset for this project is sourced from the "NCDC Storm Events Database" an
    ```
 3. Download and prepare the data:
 
-   - Go to the `Data.md` and follow the steps to download our data
-   - Place the dataset in the `DATA/` folder
+   - Go to the `1-data.ipynb` and run the cell to create the combined-df that we use across this github
+   - The dataset will be in the `DATA/` folder
+
+3. Run the exploratory plots:
+
+   - Go to `/SCRIPTS/2-exploratory-plots.ipynb`, follow the comments in the cells and run each cell to see our exploratory-plots, or go to outputs to see them directly!
 
 4. Run the analysis:
 
-   - Go to `/SCRIPTS/analysis.ipynb`, follow the comments in the cells and run each cell to perform our analysis!
+   - Go to `/SCRIPTS/3-analysis.ipynb`, follow the comments in the cells and run each cell to perform our analysis!
+  
+4. Run the stats:
+
+   - Go to `/SCRIPTS/5-stats.ipynb`, follow the comments in the cells and run each cell to see where we got our takeaways from!
 
 5. Review the results:
    - The model’s accuracy, precision, recall, and other performance metrics will be saved in the [models_results.md](OUTPUTS/models_results.md) file
