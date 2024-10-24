@@ -24,9 +24,9 @@ This repository contains the code, data, and documentation for our project analy
 ├── LICENSE.md               # License information (MIT)
 ├── requirements.txt         # Python packages needed for the project
 ├── SCRIPTS/
-|   ├── 1-data.ipynb         # script to combine data over the years
+│   ├── 1-data.ipynb         # script to combine data over the years
 │   ├── 2-exploratory.ipynb  # Prelim data discobvery
-|   ├── 3-analysis.ipynb     # Detailed step-by-step analysis performed
+│   ├── 3-analysis.ipynb     # Detailed step-by-step analysis performed
 │   └── 4-stats.ipynb        # Detailed step-by-step takeaways and stats performed
 ├── DATA/
 │   └── Data.md              # Steps to download dataset
