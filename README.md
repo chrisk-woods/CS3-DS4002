@@ -84,5 +84,5 @@ The dataset for this project is sourced from the "NCDC Storm Events Database" an
    - Go to `/SCRIPTS/5-stats.ipynb`, follow the comments in the cells and run each cell to see where we got our takeaways from!
 
 7. Review the results:
-   - The model’s accuracy, precision, recall, and other performance metrics will be saved in the [models_results.md](OUTPUTS/models_results.md) file
+   - The model’s accuracy, precision, recall, and other performance metrics will be saved in the [results.md](OUTPUTS/results.md) file
    - Visualizations will be saved in the `OUTPUTS/plots/` directory.
