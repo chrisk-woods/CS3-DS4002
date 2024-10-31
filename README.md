@@ -158,3 +158,9 @@ This document presents the findings of various statistical analyses conducted on
 
 The analyses reveal significant changes in the nature of tornado occurrences over time. While the overall frequency of tornadoes has not shown a statistically significant difference, the proportion of severe (F3 and above) and injury-causing tornadoes has decreased significantly over the years. Additionally, there has been a significant change in the distribution of tornado intensities, as evidenced by the chi-square test results.
 
+  # References
+
+1. https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/
+2. https://medium.com/@yennhi95zz/a-guide-to-time-series-models-in-machine-learning-usage-pros-and-cons-ac590a75e8b3
+3. https://bookdown.org/sergioberdiales/tfm-kschool_gijon_air_pollution/forecasting-models-arima.html
+
