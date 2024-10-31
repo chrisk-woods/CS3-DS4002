@@ -162,7 +162,7 @@ The analyses reveal significant changes in the nature of tornado occurrences ove
   
 [1] National Centers for Environmental Information, “Storm Events Database CSV Files.” [Online]. Available: https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/. [Accessed: Oct. 31, 2024].
 
-[2] Y. Nguyen, “A Guide to Time Series Models in Machine Learning: Usage, Pros, and Cons,” Medium, Jul. 28, 2019. [Online]. Available: https://medium.com/@yennhi95zz/a-guide-to-time-series-models-in-machine-learning-usage-pros-and-cons-ac590a75e8b3. [Accessed: Oct. 31, 2024].
+[2] Yennhi95zz, “A Guide to Time Series Models in Machine Learning: Usage, Pros, and Cons,” Medium, Jul. 28, 2019. [Online]. Available: https://medium.com/@yennhi95zz/a-guide-to-time-series-models-in-machine-learning-usage-pros-and-cons-ac590a75e8b3. [Accessed: Oct. 31, 2024].
 
 [3] S. Berdiales, *Forecasting Models: ARIMA*, bookdown.org, 2020. [Online]. Available: https://bookdown.org/sergioberdiales/tfm-kschool_gijon_air_pollution/forecasting-models-arima.html. [Accessed: Oct. 31, 2024].
 
