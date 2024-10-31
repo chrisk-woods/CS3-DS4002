@@ -20,7 +20,7 @@ This repository contains the code, data, and documentation for our project analy
 
 ```bash
 .
-├── README.md                # Project overview and instructions
+├── README.md                # Project overview and instructions along with results at the bottom 
 ├── LICENSE.md               # License information (MIT)
 ├── requirements.txt         # Python packages needed for the project
 ├── SCRIPTS/
@@ -31,7 +31,6 @@ This repository contains the code, data, and documentation for our project analy
 ├── DATA/
 │   └── Data.md              # Steps to download dataset
 ├── OUTPUT/
-│   ├── results.md          # classification report of our stats tests
 │   └── plots/              # Figures generated during prelim data discovery
 ```
 
