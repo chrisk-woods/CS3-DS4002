@@ -23,6 +23,7 @@ The rubric (CS3-Rubric.pdf) outlines the formatting, submission requirements, an
 - **SCRIPTS/**: Contains the Python scripts for data processing, feature engineering, and model training.
 - **DATA/**: Contains the dataset used for training and testing.
 - **OUTPUT/**: Stores the results, including figures and tables from the analysis.
+- **Articles/**: Contains two references helpful to the completion of the case study.
 
 ```bash
 .
@@ -38,6 +39,9 @@ The rubric (CS3-Rubric.pdf) outlines the formatting, submission requirements, an
 │   └── Data.md              # Steps to download dataset
 ├── Materials/OUTPUT/
 │   └── plots/              # Figures generated during prelim data discovery
+├── Materials/Articles/     #full of articles that could be helpful to complete the case study
+│   └── tor30yrs.pdf        #paper showing other research on tornado trend analysis
+│   └── TimeSeriesForecastingARIMA,SARIMA.pdf  #an article detailing time series forecasting (S)ARIMA 
 ```
 
 ## Software and Platform
