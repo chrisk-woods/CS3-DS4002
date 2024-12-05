@@ -29,14 +29,14 @@ The rubric (CS3-Rubric.pdf) outlines the formatting, submission requirements, an
 ├── README.md                # Project overview and instructions along with results at the bottom 
 ├── LICENSE.md               # License information (MIT)
 ├── requirements.txt         # Python packages needed for the project
-├── SCRIPTS/
+├── Material/SCRIPTS/
 │   ├── 1-data.ipynb         # script to combine data over the years
 │   ├── 2-exploratory.ipynb  # Prelim data discobvery
 │   ├── 3-analysis.ipynb     # Detailed step-by-step analysis performed
 │   └── 4-stats.ipynb        # Detailed step-by-step takeaways and stats performed
-├── DATA/
+├── Materials/DATA/
 │   └── Data.md              # Steps to download dataset
-├── OUTPUT/
+├── Materials/OUTPUT/
 │   └── plots/              # Figures generated during prelim data discovery
 ```
 
