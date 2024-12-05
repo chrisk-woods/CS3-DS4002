@@ -1,6 +1,6 @@
 # Tornado Trend Analysis Case Study
 
-**By**: Chris Woods
+**By**: Chris Woods 
 **Course**: DS 4002  
 **Date**: 25 October 2024
 
