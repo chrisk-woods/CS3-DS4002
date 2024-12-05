@@ -9,6 +9,12 @@
 
 This repository contains the code, data, and documentation for our project analyzing tornado trends in the U.S. from 1999 to 2023. Our aim is to build a time-series prediction model using ARIMA and SARIMA to forecast tornado-related metrics like property damage, fatalities, and frequency. By focusing on minimizing the Mean Absolute Error (MAE), we will identify the most effective prediction model for these metrics, contributing to a better understanding of long-term trends and improving disaster response strategies.
 
+## Hook Document
+The hook document outlining the case study is titled HOOK.pdf. This document provides an overview of the case study and aims to get students interested in the analysis. 
+
+## Rubric Document
+The rubric (CS3-Rubric.pdf) outlines the formatting, submission requirements, and final deliverables for this assignment. Both documents should be continuously referenced throughout the completion of the case study to guarantee success on the assignment.
+
 ## Repository Structure
 
 - **README.md**: Provides an overview and instructions for reproducing the results.
