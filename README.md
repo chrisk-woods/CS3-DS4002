@@ -1,7 +1,6 @@
-# Tornado Trend Analysis
+# Tornado Trend Analysis Case Study
 
-**Group Leader**: Chris Woods  
-**Group Members**: Zaid Fada, Malek Thabet  
+**By**: Chris Woods
 **Course**: DS 4002  
 **Date**: 25 October 2024
 
